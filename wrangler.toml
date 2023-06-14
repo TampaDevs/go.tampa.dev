@@ -1,0 +1,7 @@
+name = "go-tampa-dev"
+main = "src/index.ts"
+compatibility_date = "2023-06-14"
+
+kv_namespaces = [
+  { binding = "kv", id = "a66c4ca066cb4a53abba85b096b363e6" }
+]
